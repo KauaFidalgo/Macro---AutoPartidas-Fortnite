@@ -1,0 +1,460 @@
+2026-11-11 10:56:32,642 - INFO - Execução iniciada
+2026-11-11 10:56:33,349 - INFO - Ciclo de teste executado: 1
+2026-11-11 10:56:35,360 - INFO - Ciclo de teste executado: 2
+2026-11-11 10:56:36,619 - INFO - Execução encerrada
+2026-11-11 10:56:47,346 - INFO - Execução iniciada
+2026-11-11 10:56:47,393 - INFO - Ciclo de teste executado: 1
+2026-11-11 10:56:49,404 - INFO - Ciclo de teste executado: 2
+2026-11-11 10:56:51,413 - INFO - Ciclo de teste executado: 3
+2026-11-11 10:56:53,421 - INFO - Ciclo de teste executado: 4
+2026-11-11 10:56:55,431 - INFO - Ciclo de teste executado: 5
+2026-11-11 10:56:57,446 - INFO - Ciclo de teste executado: 6
+2026-11-11 10:56:59,457 - INFO - Ciclo de teste executado: 7
+2026-11-11 10:57:01,473 - INFO - Ciclo de teste executado: 8
+2026-11-11 10:57:03,485 - INFO - Ciclo de teste executado: 9
+2026-11-11 10:57:05,492 - INFO - Ciclo de teste executado: 10
+2026-11-11 10:57:07,499 - INFO - Ciclo de teste executado: 11
+2026-11-11 10:57:09,506 - INFO - Ciclo de teste executado: 12
+2026-11-11 10:57:10,547 - INFO - Execução encerrada
+2026-11-11 11:02:11,187 | Execução iniciada
+2026-11-11 11:02:13,236 | Ciclo de teste #1
+2026-11-11 11:02:15,263 | Ciclo de teste #2
+2026-11-11 11:02:17,403 | Ciclo de teste #3
+2026-11-11 11:02:19,467 | Ciclo de teste #4
+2026-11-11 11:02:21,516 | Ciclo de teste #5
+2026-11-11 11:02:23,516 | Ciclo de teste #6
+2026-11-11 11:02:25,517 | Ciclo de teste #7
+2026-11-11 11:02:27,516 | Ciclo de teste #8
+2026-11-11 11:02:29,556 | Ciclo de teste #9
+2026-11-11 11:02:31,583 | Ciclo de teste #10
+2026-11-11 11:02:33,641 | Ciclo de teste #11
+2026-11-11 11:02:35,651 | Ciclo de teste #12
+2026-11-11 11:02:36,595 | Execução pausada
+2026-11-11 11:02:42,273 | Execução encerrada
+2026-11-11 11:04:02,290 | Execução iniciada
+2026-11-11 11:04:04,309 | Ciclo de teste #1
+2026-11-11 11:04:06,369 | Ciclo de teste #2
+2026-11-11 11:04:07,367 | Execução encerrada
+2026-11-11 11:04:09,134 | Execução iniciada
+2026-11-11 11:04:11,182 | Ciclo de teste #1
+2026-11-11 11:04:13,237 | Ciclo de teste #2
+2026-11-11 11:04:15,236 | Ciclo de teste #3
+2026-11-11 11:04:17,307 | Ciclo de teste #4
+2026-11-11 11:04:19,186 | Execução encerrada
+2026-11-11 11:08:47,021 | Sistema iniciado
+2026-11-11 11:08:57,323 | Sistema pausado
+2026-11-11 11:09:00,155 | Sistema encerrado
+2026-11-11 11:09:03,861 | Sistema iniciado
+2026-11-11 11:09:04,699 | Sistema encerrado
+2026-11-11 11:15:26,514 | Sistema iniciado
+2026-11-11 11:15:37,457 | Sistema encerrado
+2026-11-11 11:17:45,332 | Sistema iniciado
+2026-11-11 11:17:58,557 | Iniciando reconhecimento visual
+2026-11-11 11:17:58,739 | Imagem não encontrada (-5.77%)
+2026-11-11 11:18:05,479 | Iniciando reconhecimento visual
+2026-11-11 11:18:05,585 | Imagem não encontrada (3.69%)
+2026-11-11 11:18:09,448 | Iniciando reconhecimento visual
+2026-11-11 11:18:09,570 | Imagem não encontrada (44.90%)
+2026-11-11 11:18:13,901 | Iniciando reconhecimento visual
+2026-11-11 11:18:14,012 | Imagem não encontrada (23.44%)
+2026-11-11 11:18:17,417 | Iniciando reconhecimento visual
+2026-11-11 11:18:17,494 | Imagem não encontrada (36.86%)
+2026-11-11 11:18:26,292 | Iniciando reconhecimento visual
+2026-11-11 11:18:26,429 | Imagem não encontrada (-5.70%)
+2026-11-11 11:18:32,316 | Sistema encerrado
+2026-11-11 11:27:46,347 | INFO | Monitoramento iniciado
+2026-11-11 11:27:47,975 | INFO | Monitoramento encerrado
+2026-11-11 11:30:17,835 | INFO | Monitoramento iniciado
+2026-11-11 11:31:00,752 | INFO | Monitoramento encerrado
+2026-11-11 11:31:16,984 | ERROR | An error occurred when calling message handler
+Traceback (most recent call last):
+  File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 412, in _dispatcher
+    return int(icon._message_handlers.get(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 224, in _on_notify
+    descriptors[index - 1](self)
+  File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 328, in inner
+    callback(self)
+  File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 453, in __call__
+      return self._action(icon, self)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\interface.py", line 441, in acao_sair
+      self.janela.after(0, self.fechar)
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 873, in after
+      name = self._register(callit)
+            ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1604, in _register
+      self.tk.createcommand(name, f)
+  RuntimeError: main thread is not in main loop
+  2026-11-11 11:31:20,562 | ERROR | An error occurred when calling message handler
+  Traceback (most recent call last):
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 412, in _dispatcher
+      return int(icon._message_handlers.get(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 224, in _on_notify
+      descriptors[index - 1](self)
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 328, in inner
+      callback(self)
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 453, in __call__
+      return self._action(icon, self)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\interface.py", line 438, in acao_parar
+      self.janela.after(0, self.parar)
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 873, in after
+      name = self._register(callit)
+            ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1604, in _register
+      self.tk.createcommand(name, f)
+  RuntimeError: main thread is not in main loop
+  2026-11-11 11:31:23,666 | ERROR | An error occurred when calling message handler
+  Traceback (most recent call last):
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 412, in _dispatcher
+      return int(icon._message_handlers.get(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 224, in _on_notify
+      descriptors[index - 1](self)
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 328, in inner
+      callback(self)
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 453, in __call__
+      return self._action(icon, self)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\interface.py", line 420, in abrir_janela
+      self.janela.after(
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 873, in after
+      name = self._register(callit)
+            ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1604, in _register
+      self.tk.createcommand(name, f)
+  RuntimeError: main thread is not in main loop
+  2026-11-11 11:31:43,879 | ERROR | An error occurred when calling message handler
+  Traceback (most recent call last):
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 412, in _dispatcher
+      return int(icon._message_handlers.get(
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_win32.py", line 224, in _on_notify
+      descriptors[index - 1](self)
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 328, in inner
+      callback(self)
+    File "C:\Users\55435579813\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pystray\_base.py", line 453, in __call__
+      return self._action(icon, self)
+            ^^^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\interface.py", line 420, in abrir_janela
+      self.janela.after(
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 873, in after
+      name = self._register(callit)
+            ^^^^^^^^^^^^^^^^^^^^^^
+    File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.2800.0_x64__qbz5n2kfra8p0\Lib\tkinter\__init__.py", line 1604, in _register
+      self.tk.createcommand(name, f)
+  RuntimeError: main thread is not in main loop
+  2026-11-11 11:36:44,450 | INFO | Monitoramento iniciado
+  2026-11-11 11:37:00,419 | INFO | Monitoramento encerrado
+  2026-11-11 11:45:48,186 | ERROR | An error occurred when calling message handler
+  Traceback (most recent call last):
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+      return int(icon._message_handlers.get(
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          uMsg, lambda w, l: 0)(wParam, lParam) or 0)
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+      descriptors[index - 1](self)
+      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_base.py", line 328, in inner
+      callback(self)
+      ~~~~~~~~^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+      return self._action(icon, self)
+            ~~~~~~~~~~~~^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\interface.py", line 441, in acao_sair
+      self.janela.after(0, self.fechar)
+      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\AppData\Local\Python\pythoncore-3.15-64\Lib\tkinter\__init__.py", line 906, in after
+      name = self._register(callit)
+    File "C:\Users\55435579813\AppData\Local\Python\pythoncore-3.15-64\Lib\tkinter\__init__.py", line 1757, in _register
+      self.tk.createcommand(name, f)
+      ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+  RuntimeError: main thread is not in main loop
+  2026-11-11 11:45:51,541 | ERROR | An error occurred when calling message handler
+  Traceback (most recent call last):
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_win32.py", line 412, in _dispatcher
+      return int(icon._message_handlers.get(
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          uMsg, lambda w, l: 0)(wParam, lParam) or 0)
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_win32.py", line 224, in _on_notify
+      descriptors[index - 1](self)
+      ~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_base.py", line 328, in inner
+      callback(self)
+      ~~~~~~~~^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\.venv\Lib\site-packages\pystray\_base.py", line 453, in __call__
+      return self._action(icon, self)
+            ~~~~~~~~~~~~^^^^^^^^^^^^
+    File "C:\Users\55435579813\Desktop\FortniteMacroLab\interface.py", line 441, in acao_sair
+      self.janela.after(0, self.fechar)
+      ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+    File "C:\Users\55435579813\AppData\Local\Python\pythoncore-3.15-64\Lib\tkinter\__init__.py", line 906, in after
+      name = self._register(callit)
+    File "C:\Users\55435579813\AppData\Local\Python\pythoncore-3.15-64\Lib\tkinter\__init__.py", line 1757, in _register
+      self.tk.createcommand(name, f)
+      ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^
+    2026-11-11 13:41:10,657 | INFO | Macro iniciado
+2026-11-11 13:41:16,777 | INFO | Macro pausado
+2026-11-11 13:41:32,330 | INFO | Macro retomado
+2026-11-11 13:41:50,066 | INFO | Macro encerrado
+2026-11-11 13:44:44,791 | INFO | Macro iniciado
+2026-11-11 13:44:44,994 | INFO | [LOBBY] 'botao_jogar.png': melhor 29.7% (minimo 88%)
+2026-11-11 13:44:50,480 | INFO | [LOBBY] 'botao_jogar.png': melhor 29.4% (minimo 88%)
+2026-11-11 13:44:56,242 | INFO | [LOBBY] 'botao_jogar.png': melhor 29.0% (minimo 88%)
+2026-11-11 13:45:01,953 | INFO | [LOBBY] 'botao_jogar.png': melhor 28.7% (minimo 88%)
+2026-11-11 13:45:07,735 | INFO | [LOBBY] 'botao_jogar.png': melhor 29.2% (minimo 88%)
+2026-11-11 13:45:13,252 | INFO | [LOBBY] 'botao_jogar.png': melhor 28.5% (minimo 88%)
+2026-11-11 13:45:19,167 | INFO | [LOBBY] 'botao_jogar.png': melhor 22.7% (minimo 88%)
+2026-11-11 13:45:24,868 | INFO | [LOBBY] 'botao_jogar.png': melhor 22.7% (minimo 88%)
+2026-11-11 13:45:30,342 | INFO | [LOBBY] 'botao_jogar.png': melhor 22.7% (minimo 88%)
+2026-11-11 13:45:36,137 | INFO | [LOBBY] 'botao_jogar.png': melhor 20.1% (minimo 88%)
+2026-11-11 13:45:40,195 | INFO | Macro pausado
+2026-11-11 13:45:41,208 | INFO | Macro encerrado
+2026-11-11 13:45:43,238 | INFO | Macro iniciado
+2026-11-11 13:45:43,442 | INFO | [LOBBY] 'botao_jogar.png': melhor 22.3% (minimo 88%)
+2026-11-11 13:45:48,124 | INFO | Macro encerrado
+2026-11-11 15:04:27,115 | INFO | Macro iniciado
+2026-11-11 15:04:27,318 | INFO | [LOBBY] 'botao_jogar.png': melhor 37.8% (minimo 88%)
+2026-11-11 15:04:29,155 | INFO | Fase: FILA (botao JOGAR clicado)
+2026-11-11 15:23:50,323 | INFO | Macro iniciado
+2026-11-11 15:23:50,526 | INFO | [LOBBY] 'botao_jogar.png': melhor 42.2% (minimo 88%)
+2026-11-11 15:23:53,376 | INFO | Fase: FILA (botao JOGAR clicado)
+2026-11-11 15:27:06,709 | INFO | Macro encerrado
+2026-11-11 15:27:14,450 | INFO | Macro iniciado
+2026-11-11 15:27:15,273 | INFO | Fase: FILA (botao JOGAR clicado)
+2026-11-11 15:27:26,032 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:37:15,355 | INFO | Fase: LOBBY (timeout na fila)
+2026-11-11 15:37:16,568 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:22,051 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:27,521 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:33,186 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:38,653 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:44,324 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:49,827 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:37:55,309 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:00,995 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:06,474 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:11,967 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:17,645 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:23,107 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:28,597 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:34,273 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:39,742 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:45,262 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:50,763 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:38:56,263 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:01,768 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:07,241 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:12,947 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:18,413 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:23,883 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:29,551 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:35,011 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:40,516 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:46,190 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:51,670 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:39:57,165 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:02,661 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:08,164 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:13,631 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:19,126 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:24,636 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:30,311 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:35,819 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:41,288 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:46,956 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:52,458 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:40:57,944 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:03,611 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:09,077 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:14,753 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:20,249 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:25,726 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:31,232 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:36,729 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:42,411 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:47,873 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:53,372 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:41:59,047 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:04,510 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:10,253 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:15,765 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:21,434 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:26,904 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:32,415 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:38,119 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:43,590 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:49,089 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:42:54,757 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:00,272 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:05,741 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:11,234 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:16,935 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:22,435 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:27,898 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:33,398 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:39,065 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:44,543 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:50,062 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:43:55,733 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:01,241 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:06,744 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:12,248 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:17,726 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:23,393 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:28,892 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:34,394 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:39,890 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:45,378 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:50,874 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:44:56,380 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:01,859 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:07,377 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:13,050 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:18,541 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:24,015 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:29,502 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:35,178 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:40,673 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:46,140 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:51,633 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:45:57,300 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:02,800 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:08,270 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:13,936 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:19,437 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:24,908 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:30,384 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:36,109 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:41,608 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:47,105 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:52,781 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:46:58,253 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:03,758 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:09,435 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:14,922 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:20,383 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:26,057 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:31,557 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:37,045 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:42,511 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:48,029 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:53,712 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:47:59,187 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:04,850 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:10,362 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:15,847 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:21,520 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:27,014 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:32,701 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:38,177 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:43,689 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:49,192 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:48:54,869 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:00,378 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:05,844 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:11,340 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:16,830 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:22,519 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:28,029 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:33,512 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:39,180 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:44,689 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:50,196 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:49:55,673 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:01,170 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:06,863 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:12,352 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:17,831 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:23,303 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:28,982 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:34,450 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:39,948 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:45,433 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:51,101 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:50:56,605 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:02,093 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:07,796 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:13,273 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:18,935 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:24,450 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:29,957 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:35,428 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:40,927 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:46,602 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:52,103 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:51:57,580 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:03,059 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:08,732 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:14,201 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:19,668 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:25,348 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:30,814 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:36,493 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:41,996 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:47,503 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:53,014 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:52:58,494 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:04,172 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:09,674 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:15,181 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:20,648 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:26,147 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:31,817 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:37,309 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:42,781 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:48,268 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:53,784 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:53:59,251 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:04,937 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:10,436 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:15,908 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:21,413 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:26,907 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:32,587 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:38,090 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:43,588 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:49,056 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:54:54,554 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:55:00,025 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:55:05,727 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:55:11,227 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:55:16,735 | INFO | [LOBBY] 'botao_jogar.png': melhor 25.2% (minimo 88%)
+2026-11-11 15:55:17,748 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:18,764 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:19,777 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:20,791 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:21,804 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:22,820 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:23,836 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:24,843 | INFO | Erro no macro: screen grab failed
+2026-11-11 15:55:26,067 | INFO | [LOBBY] 'botao_jogar.png': melhor 38.2% (minimo 88%)
+2026-11-11 15:55:31,784 | INFO | [LOBBY] 'botao_jogar.png': melhor 41.1% (minimo 88%)
+2026-11-11 15:55:37,511 | INFO | [LOBBY] 'botao_jogar.png': melhor 36.6% (minimo 88%)
+2026-11-11 15:55:37,512 | INFO | Macro encerrado
+2026-11-11 16:24:00,099 | INFO | Macro iniciado
+2026-11-11 16:24:00,101 | INFO | [LOBBY] 'botao_jogar.png': melhor 38.2% (minimo 88%)
+2026-11-11 16:24:02,938 | INFO | Fase: FILA (botao JOGAR clicado)
+2026-11-11 16:34:03,350 | INFO | Fase: LOBBY (timeout na fila)
+2026-11-11 16:34:04,574 | INFO | [LOBBY] 'botao_jogar.png': melhor 30.2% (minimo 88%)
+2026-11-11 16:34:10,052 | INFO | [LOBBY] 'botao_jogar.png': melhor 30.2% (minimo 88%)
+2026-11-11 16:34:15,781 | INFO | [LOBBY] 'botao_jogar.png': melhor 39.5% (minimo 88%)
+2026-11-11 16:34:21,461 | INFO | [LOBBY] 'botao_jogar.png': melhor 48.3% (minimo 88%)
+2026-11-11 16:34:26,756 | INFO | [LOBBY] 'botao_jogar.png': melhor 47.5% (minimo 88%)
+2026-11-11 16:34:31,637 | INFO | Macro encerrado
+2026-11-11 16:34:32,653 | INFO | Macro iniciado
+2026-11-11 16:34:32,855 | INFO | [LOBBY] 'botao_jogar.png': melhor 49.0% (minimo 88%)
+2026-11-11 16:34:38,365 | INFO | [LOBBY] 'botao_jogar.png': melhor 48.2% (minimo 88%)
+2026-11-11 16:34:43,834 | INFO | [LOBBY] 'botao_jogar.png': melhor 48.8% (minimo 88%)
+2026-11-11 16:34:49,343 | INFO | [LOBBY] 'botao_jogar.png': melhor 49.0% (minimo 88%)
+2026-11-11 16:34:54,037 | INFO | Macro encerrado
+2026-11-11 16:34:57,486 | INFO | Macro iniciado
+2026-11-11 16:34:57,690 | INFO | [LOBBY] 'botao_jogar.png': melhor 43.7% (minimo 88%)
+2026-11-11 16:35:03,388 | INFO | [LOBBY] 'botao_jogar.png': melhor 39.5% (minimo 88%)
+2026-11-11 16:35:08,917 | INFO | [LOBBY] 'botao_jogar.png': melhor 39.5% (minimo 88%)
+2026-11-11 16:35:14,595 | INFO | [LOBBY] 'botao_jogar.png': melhor 30.0% (minimo 88%)
+2026-11-11 16:35:16,211 | INFO | Fase: FILA (botao JOGAR clicado)
